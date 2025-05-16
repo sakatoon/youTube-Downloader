@@ -1,5 +1,5 @@
 <img src="https://i.ibb.co/LzHVNQvw/yt-Download.png" width="300" height="200">
-<img alt="YouTube Downloader" data-canonical-src="https://i.ibb.co/qLfQ5pmS/programa.png" style="max-width: 100%;"></a></p>
+<img alt="YouTube Downloader" src="https://i.ibb.co/qLfQ5pmS/programa.png" style="max-width: 100%;"></a></p>
 <p dir="auto">Este script es una aplicación gráfica en Python que permite descargar videos o audios de YouTube. Utiliza la biblioteca <code><code>yt-dlp</code></code> para manejar las descargas y <code><code>tkinter</code></code> para la interfaz gráfica. Los usuarios pueden:</p>
 <ol dir="auto">
 <li><strong>Ingresar o pegar un enlace de YouTube</strong>.</li>
